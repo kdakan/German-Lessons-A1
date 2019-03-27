@@ -80,15 +80,15 @@ I am gathering these from all over the web to help my own study of German.
 - Mein Geburtstag ist am einundzwanzigsten März. (My birthday is on 21th of March)
 
 ## Time
-Wie spät ist es? (What time is it?)
-Es ist dreizehn Uhr. (It is 1 o'clock pm)
-Es ist dreizehn Uhr fünfundzwanzig. (It is 1:25 pm)
-Es ist viertel nach eins. (It is quarter past 1 - am or pm)
-Es ist viertel vor eins. (It is quarter to 1 - am or pm)
-Es ist zehn nach eins. (It is 10 past 1 - am or pm)
-Es ist viertel vor eins. (It is 10 to 1 - am or pm)
-Es ist halb eins. (It is half past 12 - am or pm)
-Es ist halb neun. (It is half past 8 - am or pm)
+- Wie spät ist es? (What time is it?)
+- Es ist dreizehn Uhr. (It is 1 o'clock pm)
+- Es ist dreizehn Uhr fünfundzwanzig. (It is 1:25 pm)
+- Es ist viertel nach eins. (It is quarter past 1 - am or pm)
+- Es ist viertel vor eins. (It is quarter to 1 - am or pm)
+- Es ist zehn nach eins. (It is 10 past 1 - am or pm)
+- Es ist viertel vor eins. (It is 10 to 1 - am or pm)
+- Es ist halb eins. (It is half past 12 - am or pm)
+- Es ist halb neun. (It is half past 8 - am or pm)
 
 ## Moods, emotions:
 - Wie geht es dir? (How are you?)
