@@ -1,7 +1,9 @@
 # German-Lessons-A1
 German lessons A1 level for the beginner.
 
-These are not my original, I am gathering these from all over the web to help my own study.
+These are not my original.
+
+I am gathering these from all over the web to help my own study of German.
 
 (Work in progress)
 
@@ -87,31 +89,31 @@ These are not my original, I am gathering these from all over the web to help my
 - Ich bin aufgereght. (I am excited)
 - Ich habe Angst. (I am scared)
 
-#Fruits:
-Das Obst (the fruit)
-Der Apfel (the apple)
-Die Banane (the banana)
-Die Orange (the orange)
-Die Birne (the pear)
-Die (Wein)traube (the grapes)
-Die Aprikose (the apricot)
-Der Pfirsich (the peach)
-Die Kirsche (the cherry)
-Die Wassermelone (the watermelon)
-Die Pflaume (the plume)
-Die Feige (the fig)
+##Fruits:
+- Das Obst (the fruit)
+- Der Apfel (the apple)
+- Die Banane (the banana)
+- Die Orange (the orange)
+- Die Birne (the pear)
+- Die (Wein)traube (the grapes)
+- Die Aprikose (the apricot)
+- Der Pfirsich (the peach)
+- Die Kirsche (the cherry)
+- Die Wassermelone (the watermelon)
+- Die Pflaume (the plume)
+- Die Feige (the fig)
 
-Die Zitrone (the lemon)
-Die Tomate (the tomato)
-Die Olive (the olive)
-Die Limette (the lime)
+- Die Zitrone (the lemon)
+- Die Tomate (the tomato)
+- Die Olive (the olive)
+- Die Limette (the lime)
 
-Die Erdbeere (the strawberry)
-Die Himbeere (the rasberry)
-Die Heidelbeere (the blueberry)
+- Die Erdbeere (the strawberry)
+- Die Himbeere (the rasberry)
+- Die Heidelbeere (the blueberry)
 
-Die Ananas (the pineapple)
-Die Kokosnuss (the coconut)
-Die Mango (the mango)
-Die Kiwi (the kiwi)
-Die Avocado (the avocado)
+- Die Ananas (the pineapple)
+- Die Kokosnuss (the coconut)
+- Die Mango (the mango)
+- Die Kiwi (the kiwi)
+- Die Avocado (the avocado)
