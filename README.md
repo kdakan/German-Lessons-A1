@@ -89,31 +89,12 @@ I am gathering these from all over the web to help my own study of German.
 - Ich bin aufgereght. (I am excited)
 - Ich habe Angst. (I am scared)
 
-##Fruits:
+## Fruits:
 - Das Obst (the fruit)
-- Der Apfel (the apple)
-- Die Banane (the banana)
-- Die Orange (the orange)
-- Die Birne (the pear)
-- Die (Wein)traube (the grapes)
-- Die Aprikose (the apricot)
-- Der Pfirsich (the peach)
-- Die Kirsche (the cherry)
-- Die Wassermelone (the watermelon)
-- Die Pflaume (the plume)
-- Die Feige (the fig)
+- Der Apfel, die Banane, die Orange, die Aprikose, die Wassermelone (the apple, banana, orange, apricot, watermellon, cherry)
+- Die Birne, der Pfirsich, die Kirsche (the pear, peach, cherry)
+- Die (Wein)traube, die Pflaume, die Feige (the grapes, plume, fig)
+- Die Zitrone, die Tomate , die Olive, die Limette (the lemon, tomato, olive, lime)
+- Die Erdbeere, die Himbeere, die Heidelbeere (the strawberry, rasberry, blueberry)
+- Die Ananas, die Kokosnuss, die Kiwi, die Mango, die Avocado (the pineapple, coconut, kiwi, mango, avocado)
 
-- Die Zitrone (the lemon)
-- Die Tomate (the tomato)
-- Die Olive (the olive)
-- Die Limette (the lime)
-
-- Die Erdbeere (the strawberry)
-- Die Himbeere (the rasberry)
-- Die Heidelbeere (the blueberry)
-
-- Die Ananas (the pineapple)
-- Die Kokosnuss (the coconut)
-- Die Mango (the mango)
-- Die Kiwi (the kiwi)
-- Die Avocado (the avocado)
