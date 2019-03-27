@@ -1,9 +1,7 @@
 # German-Lessons-A1
-German lessons A1 level for the beginner.
+German lessons for A1 beginner level.
 
-These are not my original.
-
-I am gathering these from all over the web to help my own study of German.
+These are not my original, I am gathering these notes from all over the web to help my own German studies.
 
 (Work in progress)
 
