@@ -249,3 +249,51 @@ These are not my original, I am gathering these notes from all over the web to h
 - colors (das Blau, das Gelb, but die Farbe)
 - names made from verbs (das Frühstück, das Essen)
 
+## Nicht (definite):
+- Ich bleibe nicht. (I'm not staying)
+- Ich gehe nicht nach House. (I'm not going home)
+- Ich lese nicht das Buch. (I don't read the book)
+- Das wesser ist nicht goot. (The weather is not good)
+- Ich bin nicht verheiratet. (I'm not married)
+- Der Zug fährt nicht scnell. (The train doesn't go fast)
+- Es dauert nicht lange. (It doesn't take long)
+- Er hat nicht sofort geantwortet. (He didn't answer right away)
+- Ich bin nicht in der Tütkei. (I'm not in Turkey)
+- Sie kommt nicht aus Deutschland. (She didn't come from Germany)
+- Er heißt nicht Hans. (His name isn't Hans)
+- Das sind nicht meine Kinder. (These aren't my children)
+- Das ist nicht mein Fahrrad. (This isn't my bike)
+- Ich arbeite nicht. (I don't work)
+- Ich lese nicht das Buch. (I'm not reading this book)
+
+## Kein (indefinite):
+
+-               Maskulin          Feminin        Neutral         Plural           
+- --------------------------------------------------------------------------------
+- Nominative:   kein Freund       keine Katze    kein Haus       keine Bücher     
+- Akkusativ :   keinen Freund     keine Katze    kein Haus       keine Bücher     
+- Dativ     :   keinem Freund     keiner Katze   keinem Haus     keinen Büchern   
+- Genitiv   :   keines Freundes   keiner Katze   keines Hauses   keiner Bücher    
+
+- Ich habe einen Bruder. (der Bruder) (I have a brother)
+- Ich habe keinen Bruder. (der Bruder) (I have no brother)
+- Ich habe eine Katze. (die Katze) (I have a cat)
+- Ich habe keine Katze. (die Katze) (I have no cat)
+- Ich habe ein Auto. (das Auto) (I have a car)
+- Ich habe kein Auto. (das Auto) (I have no car)
+- Ich möchte einen Apfel essen. (der Apfel) (I want to eat an apple)
+- Ich möchte keinen Apfel essen. (der Apfel) (I want to eat no apple)
+
+- Ich habe Lust. (die Lust) (I'm in the mood)
+- Ich habe keine Lust. (die Lust) (I'm not in the mood)
+- Ich habe Zeit. (die Zeit) (I have time)
+- Ich habe keine Zeit. (die Zeit) (I have no time)
+- Ich habe Hunger. (der Hunger) (I'm hungry)
+- Ich habe keinen Hunger. (der Hunger) (I'm not hungry)
+- Ich habe Geld. (das Geld) (I have money)
+- Ich habe kein Geld. (das Geld) (I don't have any money)
+- Ich kaufe Brot. (das Brot) (I buy bread)
+- Ich kaufe kein Brot. (das Brot) (I don't buy any bread)
+- Ich habe keine Arbeit. (die Arbeit)
+- Ich lese kein Buch. (das Buch)
+- Ich sehe keinen Zug. (der Zug)
