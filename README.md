@@ -35,6 +35,7 @@ These are not my original, I am gathering these notes from all over the web to h
 - ä is pronounced as long ee (Käse, Universität, ähnlich)
 - Words starting with j are pronounced as y (jetzt, ja, jemand)
 - y, if it is not the starting letter of the word, is pronounced as ü (System, Kohlenhydrat, Analyze)
+- Words ending with er are pronounced as a (Körper, Mechaniker)
 
 ## Greeting:
 - Hallo. (Hello - informal)
@@ -215,3 +216,36 @@ These are not my original, I am gathering these notes from all over the web to h
 - Bist du ... (Are you ...)
 - Machst du ... (Do you make ...)
 - Hast du ... (Do you have ...)
+
+## Der article usage:
+- for males and male occupations (der Mann, der Vater, der Arzt)
+- days, weeks, months, seasons (der Tag, der Montag, der Monat, der Januar, der Sommer, but das Jahr)
+- weather, direction (der Schnee, der Norden)
+- alcohol (der Wein, der Cognac, but das Bier)
+- words ending with er (der Körper, der Mechaniker)
+- words ending with or (der Motor, der Reaktor, der Rektor)
+- words ending with ig (der König, der Essig, der Honig)
+- words ending with us (der Optimismus)
+
+## Die article usage:
+- for females and female occupations (die Frau, die Mutter, die Schwester, die Freundin, die Ärztin)
+- time, clock, hour, minute, second (die Zeit, die Uhr, die Minute, die Sekunde)
+- words ending with ei (die Malerei, die Gärtnerei)
+- words ending with heit (die Freiheit, die Gesundheit)
+- words ending with keit (die Möglichkeit, die Einsamkeit)
+- words ending with shaft (die Freundshaft)
+- words ending with ung (die Wohnung, die Einladung, die Zeitung)
+- words ending with ik (die Musik, die Republik)
+- words ending with ät (die Universität, die Realität)
+- words ending with ur (die Natur, die Kultur)
+- words ending with ion (from French) (die Aktion, die Situation)
+- words ending with e (die Messe, die Reise, but der Name)
+
+## Das article usage:
+- words ending with chen (means small, little) (das Mädchen, das Brötchen)
+- words ending with lein (das Büchlein)
+- words ending with ment (das Parlament, das Element)
+- words ending with um (das Zentrum, das Museum)
+- colors (das Blau, das Gelb, but die Farbe)
+- names made from verbs (das Frühstück, das Essen)
+
