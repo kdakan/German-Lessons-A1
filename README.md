@@ -268,12 +268,12 @@ These are not my original, I am gathering these notes from all over the web to h
 
 ## Kein (indefinite):
 
--               Maskulin          Feminin        Neutral         Plural           
-- --------------------------------------------------------------------------------
-- Nominative:   kein Freund       keine Katze    kein Haus       keine Bücher     
-- Akkusativ :   keinen Freund     keine Katze    kein Haus       keine Bücher     
-- Dativ     :   keinem Freund     keiner Katze   keinem Haus     keinen Büchern   
-- Genitiv   :   keines Freundes   keiner Katze   keines Hauses   keiner Bücher    
+|            | Maskulin        | Feminin      | Neutral       | Plural         |
+| ---------- | --------------- | ------------ | ------------- | -------------- |
+| Nominative | kein Freund     | keine Katze  | kein Haus     | keine Bücher   |
+| Akkusativ  | keinen Freund   | keine Katze  | kein Haus     | keine Bücher   |
+| Dativ      | keinem Freund   | keiner Katze | keinem Haus   | keinen Büchern |
+| Genitiv    | keines Freundes | keiner Katze | keines Hauses | keiner Bücher  |
 
 - Ich habe einen Bruder. (der Bruder) (I have a brother)
 - Ich habe keinen Bruder. (der Bruder) (I have no brother)
