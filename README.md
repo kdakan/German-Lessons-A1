@@ -303,36 +303,78 @@ I am gathering these notes from all over the web to help my German learning.
 - Ich lese kein Buch. (das Buch)
 - Ich sehe keinen Zug. (der Zug)
 
-## Nominativ, Akkusativ, Dativ, Genitiv:
+## Nominativ, Akkusativ, Dativ:
 - Nominativ (subject form)
 - Akkusativ (object form)
 - Dativ (in/at, from, to - location or time)
-- Genitiv (possession)
 
-|              | Nominative | Akkusativ | Dativ | Genitiv |
-| ------------ | :--------: | :-------: | :---: | :-----: |
-| subject form |     x      |           |       |         |
-| object form  |            |     x     |       |         |
-| in/at        |            |           |   x   |         |
-| from         |            |           |   x   |         |
-| to           |            |     x     |   x   |         |
-| possession   |            |           |       |    x    |
+|              | Nominative | Akkusativ | Dativ |
+| ------------ | :--------: | :-------: | :---: |
+| subject form |     x      |           |       |
+| object form  |            |     x     |       |
+| in/at        |            |           |   x   |
+| from         |            |           |   x   |
+| to           |            |     x     |   x   |
 
-| definite   | Maskulin        | Feminin      | Neutral       | Plural         |
-| ---------- | --------------- | ------------ | ------------- | -------------- |
-| Nominativ  | der Freund      | die Katze    | das Haus      | die Bücher     |
-| Akkusativ  | den Freund      | die Katze    | das Haus      | die Bücher     |
-| Dativ      | dem Freund      | der Katze    | dem Haus      | den Büchern    |
+| definite   | Maskulin            | Feminin           | Neutral           | Plural           |
+| ---------- | ------------------- | ----------------- | ----------------- | ---------------- |
+| Nominativ  | der Freund          | die Katze         | das Haus          | die Bücher       |
+| Akkusativ  | den Freund          | die Katze         | das Haus          | die Bücher       |
+| Dativ      | dem Freund          | der Katze         | dem Haus          | den Büchern      |
 
-| indefinite | Maskulin           | Feminin         | Neutral          | Plural         |
-| ---------- | ------------------ | --------------- | ---------------- | -------------- |
-| Nominativ  | (k)ein Freund      | (k)eine Katze   | (k)ein Haus      | Bücher         |
-| Akkusativ  | (k)einen Freund    | (k)eine Katze   | (k)ein Haus      | Bücher         |
-| Dativ      | (k)einem Freund    | (k)einer Katze  | (k)einem Haus    | Büchern        |
+| indefinite | Maskulin            | Feminin           | Neutral           | Plural           |
+| ---------- | ------------------- | ----------------- | ----------------- | ---------------- |
+| Nominativ  | (k)ein Freund       | (k)eine Katze     | (k)ein Haus       | Bücher           |
+| Akkusativ  | (k)einen Freund     | (k)eine Katze     | (k)ein Haus       | Bücher           |
+| Dativ      | (k)einem Freund     | (k)einer Katze    | (k)einem Haus     | Büchern          |
 
-| person     | 1st (sn) | 2nd (sn) | 3rd (sn)    | 1st (pl) | 2nd (pl) | 3rd (pl) | question          |
-| ---------- | -------- | -------- | ----------- | -------- | -------- | -------- | ----------------- |
-| Nominativ  | ich      | du       | er/sie/es   | wir      | ihr      | sie      | Wer/Was           |
-| Akkusativ  | mich     | dich     | ihn/sie/es  | uns      | euch     | sie      | Wen/Was           |
-| Dativ      | mir      | dir      | ihm/ihr/ihm | uns      | euch     | ihnen    | Wem/Wo/Woher/Wann |
+| person     | 1st sng. | 2nd sng. | 3rd sng.          | 1st pl. | 2nd pl. | 3rd .pl.         | question          |
+| ---------- | -------- | -------- | ----------------- | ------- | ------- | ---------------- | ----------------- |
+| Nominativ  | ich      | du       | er/sie/es         | wir     | ihr     | sie              | Wer/Was           |
+| Akkusativ  | mich     | dich     | ihn/sie/es        | uns     | euch    | sie              | Wen/Was           |
+| Dativ      | mir      | dir      | ihm/ihr/ihm       | uns     | euch    | ihnen            | Wem/Wo/Woher/Wann |
 
+## Dativ prepositions:
+
+- Wem? (Whom)
+
+- Wo? (Where)
+- in/im (inside) (im Supermarkt = in dem Supermarkt, im Kino)
+- an/am (near) (am Meer = an dem Meer)
+- auf (over) (auf dem Tisch)
+- vor (in front of)
+- hinter (behind)
+- über (over)
+- unter (under)
+- neben (next to) (neben dem Sofa)
+- zwischen (between)
+- bei (nearby, at) (bei dieser Bank)
+- nach (to) (nach Deutschland)
+- zu/zum (to) (zum Fitnessstudio)
+- durch (through)
+- gegenüber (across, opposite, towards) (Ich bin tolerent gegenüber anderen Kulturen und Ideen)
+- mit (with)
+- außer (without, except, aside from) (Außer mir wollte niemand ein Eis)
+
+- Woher? (Where from)
+- aus (out, from) (aus der Turkei, aus Deutschland, aus der Schweis, aus dem Fitnessstudio)
+- von/vom (from) (vom Arzt, vom Strand, von Lisa)
+- durch (through, due to, because of)
+
+- Wann? (When)
+- an/am (day, time) (am Montag = an dem Montag, am Abend)
+- in/im (month, season) (im Sommer = in dem Sommer)
+- seit (since) (seit dem April, seit vielen Jahren)
+- ab (from) (ab dem Stichtag)
+- bei (by)
+- x (nothing needed for year)
+
+## Dativ verbs:
+- antworten (to answer) (Ich habe deiner E-mail grantwortet)
+- gefallen (to be liked) (Es gefallt mir)
+- gehören (to belong) (Es gehört mir)
+- helfen (to help) (Ich helfe dir)
+- folgen (to follow) (Ich folge dir)
+- gratulieren (to congradulate) (Wir gratulieren dir zur Geburt von Lisa)
+- schmecken (to taste) (Die Kirschen schmecken mir s)
+- vertrauen (to trust) (Vertrau mir)
