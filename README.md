@@ -89,6 +89,23 @@ I am gathering these notes from all over the web to help my German learning.
 - t: Inr kommt / macht / lernt / spielt / geht / seid / habt (You come, You are coming / You make, You are making / ... )
 - en: Sie kommen / machen / lernen / spielen / gehen / sind / haben (They come, They are coming / They make, They are making / ... )
 
+## Auxiliary verbs:
+
+- müssen   (must)
+- sollen   (should)
+- dürfen   (to be allowed)
+- können   (to know)
+- wollen   (want)
+
+|           | müssen | sollen | dürfen | können | wollen |
+| --------- | ------ | ------ | ------ | ------ | ------ |
+| ich       | muss   | soll   | darf   | kann   | will   |
+| du        | musst  | sollst | darfst | kannst | willst |
+| er/sie/es | muss   | soll   | darf   | kann   | will   |
+| wir       | müssen | sollen | dürfen | können | wollen |
+| ihr       | müsst  | sollt  | dürft  | könnt  | wollt  |
+| sie       | müssen | sollen | dürfen | können | wollen |
+
 ## Ordering food & drink, paying:
 - Ich würde gerne eine Tasse Kaffee trinken. (I would like to drink a cup of coffee) 
 - Ich hätte gerne einen Hamburger. (I'd like to have a hamburger) 
