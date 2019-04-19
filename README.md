@@ -249,7 +249,7 @@ These are not my original, I am gathering these notes from all over the web to h
 - colors (das Blau, das Gelb, but die Farbe)
 - names made from verbs (das Frühstück, das Essen)
 
-## Nicht (definite):
+## Nicht (definite negation):
 - Ich bleibe nicht. (I'm not staying)
 - Ich gehe nicht nach House. (I'm not going home)
 - Ich lese nicht das Buch. (I don't read the book)
@@ -266,11 +266,11 @@ These are not my original, I am gathering these notes from all over the web to h
 - Ich arbeite nicht. (I don't work)
 - Ich lese nicht das Buch. (I'm not reading this book)
 
-## Kein (indefinite):
+## Kein (indefinite negation):
 
 |            | Maskulin        | Feminin      | Neutral       | Plural         |
 | ---------- | --------------- | ------------ | ------------- | -------------- |
-| Nominative | kein Freund     | keine Katze  | kein Haus     | keine Bücher   |
+| Nominativ  | kein Freund     | keine Katze  | kein Haus     | keine Bücher   |
 | Akkusativ  | keinen Freund   | keine Katze  | kein Haus     | keine Bücher   |
 | Dativ      | keinem Freund   | keiner Katze | keinem Haus   | keinen Büchern |
 | Genitiv    | keines Freundes | keiner Katze | keines Hauses | keiner Bücher  |
@@ -297,3 +297,37 @@ These are not my original, I am gathering these notes from all over the web to h
 - Ich habe keine Arbeit. (die Arbeit)
 - Ich lese kein Buch. (das Buch)
 - Ich sehe keinen Zug. (der Zug)
+
+## Nominativ, Akkusativ, Dativ, Genitiv:
+- Nominativ (subject form)
+- Akkusativ (object form)
+- Dativ (in/at, from, to - location or time)
+- Genitiv (possession)
+
+|              | Nominative | Akkusativ | Dativ | Genitiv |
+| ------------ | :--------: | :-------: | :---: | :-----: |
+| subject form |     x      |           |       |         |
+| object form  |            |     x     |       |         |
+| in/at        |            |           |   x   |         |
+| from         |            |           |   x   |         |
+| to           |            |     x     |   x   |         |
+| possession   |            |           |       |    x    |
+
+| definite   | Maskulin        | Feminin      | Neutral       | Plural         |
+| ---------- | --------------- | ------------ | ------------- | -------------- |
+| Nominativ  | der Freund      | die Katze    | das Haus      | die Bücher     |
+| Akkusativ  | den Freund      | die Katze    | das Haus      | die Bücher     |
+| Dativ      | dem Freund      | der Katze    | dem Haus      | den Büchern    |
+
+| indefinite | Maskulin           | Feminin         | Neutral          | Plural         |
+| ---------- | ------------------ | --------------- | ---------------- | -------------- |
+| Nominativ  | (k)ein Freund      | (k)eine Katze   | (k)ein Haus      | Bücher         |
+| Akkusativ  | (k)einen Freund    | (k)eine Katze   | (k)ein Haus      | Bücher         |
+| Dativ      | (k)einem Freund    | (k)einer Katze  | (k)einem Haus    | Büchern        |
+
+| person     | 1st (sn) | 2nd (sn) | 3rd (sn)    | 1st (pl) | 2nd (pl) | 3rd (pl) | question          |
+| ---------- | -------- | -------- | ----------- | -------- | -------- | -------- | ----------------- |
+| Nominativ  | ich      | du       | er/sie/es   | wir      | ihr      | sie      | Wer/Was           |
+| Akkusativ  | mich     | dich     | ihn/sie/es  | uns      | euch     | sie      | Wen/Was           |
+| Dativ      | mir      | dir      | ihm/ihr/ihm | uns      | euch     | ihnen    | Wem/Wo/Woher/Wann |
+
