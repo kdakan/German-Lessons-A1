@@ -81,13 +81,13 @@ I am gathering these notes from all over the web to help my German learning.
 - sie (they)
 
 ## Regular verbs:
-- kommen / machen / lernen / spielen / gehen / sein / haben (to come, to make, to learn, to play, to go, to be, to have)
-- Ich komme / mache / lerne / spiele / gehe / bin / habe (I come, I am coming / I make, I am making / ... )
-- Du kommst / machst / lernst / spielst / gehst / bist / hast (You come, You are coming / You make, You are making / ... )
-- Er / Sie / Es kommt / macht / lernt / spielt / geht / ist / hat (He / She / It comes, He / She / It is coming / ... )
-- Wir kommen / machen / lernen / spielen / gehen / sind / haben (We come, We are coming / We make, We are making / ... )
-- Inr kommt / macht / lernt / spielt / geht / seid / habt (You come, You are coming / You make, You are making / ... )
-- Sie kommen / machen / lernen / spielen / gehen / sind / haben (They come, They are coming / They make, They are making / ... )
+- en: kommen / machen / lernen / spielen / gehen / sein / haben (to come, to make, to learn, to play, to go, to be, to have)
+- e: Ich komme / mache / lerne / spiele / gehe / bin / habe (I come, I am coming / I make, I am making / ... )
+- st: Du kommst / machst / lernst / spielst / gehst / bist / hast (You come, You are coming / You make, You are making / ... )
+- t: Er / Sie / Es kommt / macht / lernt / spielt / geht / ist / hat (He / She / It comes, He / She / It is coming / ... )
+- en: Wir kommen / machen / lernen / spielen / gehen / sind / haben (We come, We are coming / We make, We are making / ... )
+- t: Inr kommt / macht / lernt / spielt / geht / seid / habt (You come, You are coming / You make, You are making / ... )
+- en: Sie kommen / machen / lernen / spielen / gehen / sind / haben (They come, They are coming / They make, They are making / ... )
 
 ## Ordering food & drink, paying:
 - Ich würde gerne eine Tasse Kaffee trinken. (I would like to drink a cup of coffee) 
