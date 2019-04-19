@@ -1,11 +1,12 @@
 # German-Lessons-A1
 German lessons for A1 beginner level.
 
-These are not my original, I am gathering these notes from all over the web to help my own German studies.
+I am gathering these notes from all over the web to help my German learning.
 
 (Work in progress)
 
-## Alphabet
+## Alphabet:
+- German letters (Turkish pronunciations in parenthesis)
 - A (a), B (be), C (tse), D (de)
 - E (e), F (ef), G (ge), H (ha)
 - I (i), J (yot), K (ka), L (el)
@@ -16,7 +17,11 @@ These are not my original, I am gathering these notes from all over the web to h
 - Ä (a umlaut), Ö (o umlaut), Ü (u umlaut), ß (estset)
 
 ## Pronunciation:
-- Ä (e), Ö (ö), Ü (ü), ß (ss)
+- These are Turkish pronunciations (in Turkish phonetics)
+- Ä is pronounced as e
+- Ö is pronounced as ö
+- Ü is pronounced as ü
+- ß is pronounced as long ss
 - Words starting with sp / st are pronounced as ş (Spiel, Sport, Straße)
 - Words ending with en are pronounced as ın (Trauben, lesen, reden)
 - Words ending with ig are pronounced as ih (richig, zwanzig, schmutzig)
